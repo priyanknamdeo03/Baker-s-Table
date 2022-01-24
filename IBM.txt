@@ -1,0 +1,17 @@
+Users may build their own private cloud or purchase services hosted on the IBM cloud. Users may also purchase IBM hardware, software and services to build their customized cloud environment.
+
+IBM® Db2® Warehouse on Cloud is a fully managed, elastic cloud data warehouse that delivers independent scaling of storage and compute.
+IBM Cloud® offers purpose-built databases that deliver high availability, enhanced security and scalable performance. ... DBaaS solutions on IBM Cloud include auto provisioning, hosting, and 24x7 management with automated high availability, backup and restore, version upgrades, security and more.
+
+Watson Assistant
+Provide customers with fast, consistent and accurate answers across any application, device or channel.
+
+Watson Natural Language Understanding
+Increase understanding of human language by analyzing text and identifying concepts, keywords, categories, sentiment, and more.
+
+Serverless Backends
+Expose application logic by implementing serverless microservices. Simply map your functions to well-defined API endpoints any client can call by making use of Web Actions or our latest API Gateway integration.
+
+IBM Cloud container
+Containers are a form of operating system virtualization. A single container might be used to run anything from a small microservice or software process to a larger application. Inside a container are all the necessary executables, binary code, libraries, and configuration files.
+Containers are packages of software that contain all of the necessary elements to run in any environment. In this way, containers virtualize the operating system and run anywhere, from a private data center to the public cloud or even on a developer's personal laptop.
